@@ -1,12 +1,14 @@
 # Sales Inventory + Laravel 5.5
 
 ### Introduction
-
 ...
+### Requirements
+ - 7.09 php version or higher
+ - git clone or/Download the project
 
 ### Installation
 
-Assuming your machine meets all requirements - let's process to installation of Sales Inventory Laravel integration.
+Please follow the steps below.
 1. Create database name it "sales-inventory" without double qout.
 2. Open in cmd or terminal app and navigate to this folder
 3. Run following commands
